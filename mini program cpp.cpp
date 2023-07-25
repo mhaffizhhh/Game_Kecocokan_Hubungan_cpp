@@ -9,14 +9,6 @@ int main(){
 	string nama1,nama2;
 	
 	//ALGORITMA
-	cout<<"	     ||===============================||"<<endl;
-	cout<<"	     ||SEBERAPA COCOK ANDA DENGAN DIA?||"<<endl;
-	cout<<"	     ||-------------------------------||"<<endl;
-	cout<<"	     || Oleh: Mohammad Hafizh Efridas ||"<<endl;
-	cout<<"	     ||           2200856             ||"<<endl;
-	cout<<"	     ||        Matematika 2D          ||"<<endl;
-	cout<<"	     ||===============================||"<<endl;
-	
 	cout<<""<<endl;
 	
 	//INPUT NAMA PERTAMA
